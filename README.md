@@ -1,5 +1,5 @@
 # My professional profile
-Hi i am a professional developer, with a passion coder! If you like any project ou code in my repos you can copy and enjoy!
+Hi i am a professional developer, with a passion coder! If you like any project or code in my repos you can/clone copy and enjoy!
 
 Stackoverflow profile:
 <https://stackoverflow.com/users/740569/auston?tab=profile>
