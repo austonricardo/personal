@@ -1,4 +1,6 @@
-# personal
+# My professional profile
+Hi i am a professional developer, with a passion coder! If you like any project ou code in my repos you can copy and enjoy!
+
 
 Buy me a beer!
 
